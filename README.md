@@ -1,2 +1,2 @@
-# datathon
-Citadel Datathon 2024
+# Citadel Datathon 2024
+Team 24's submission to the Summer Invitational Citadel Datathon. We employed a gradient boosted models to determine correlation between geographic factors and fast food consumption/obesity rates and Granger tests to make causal inferences about economic factors and obesity. ARIMA and VAR models were used to make future predictions of stock price and obesity rates with strong p-values.
